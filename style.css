@@ -126,6 +126,7 @@ button {
   border-radius: 5px;
   background-color: green;
   color: white;
+  padding: 3px 5px;
 }
 
 button:hover {
@@ -142,5 +143,21 @@ h1 {
 }
 
 a.mail {
-  color: black;
+  color: blue;
+}
+
+h4 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: x-large;
+  font-weight: bolder;
+  font-variant: small-caps;
+  text-align: left;
+}
+
+p.six {
+  font-family: "Courier New", Courier, monospace;
+  font-size: medium;
+  font-weight: lighter;
+  text-align: left;
+  padding: 0px 50px;
 }
