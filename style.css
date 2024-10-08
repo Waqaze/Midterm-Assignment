@@ -26,6 +26,12 @@ nav ul li {
   padding: 0px 20px;
 }
 
+nav ul li a:hover {
+  color: #0a0a0a;
+  text-decoration-line: overline;
+  text-transform: uppercase;
+}
+
 div.pics {
   background-color: teal;
   width: 100%;
@@ -93,6 +99,10 @@ a {
   color: white;
 }
 
+a:hover {
+  color: aqua;
+}
+
 div#orderform {
   font-family: arial;
   font-size: larger;
@@ -124,7 +134,7 @@ button {
   font-size: larger;
   font-weight: bolder;
   border-radius: 5px;
-  background-color: green;
+  background-color: crimson;
   color: white;
   padding: 3px 5px;
 }
